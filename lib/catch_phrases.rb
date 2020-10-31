@@ -13,6 +13,6 @@ def link
 end
 
 def all_phrases
-  puts $all_phrases_inna_nutshell
+  $all_phrases_inna_nutshell = 
   
 

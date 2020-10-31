@@ -13,6 +13,8 @@ def link
 end
 
 def all_phrases
-  $all_phrases_inna_nutshell = 'Thank You Mario! But Our Princess Is In Another Castle!', "It's-a me, Mario!", 
+  $all_phrases_inna_nutshell = 'Thank You Mario! But Our Princess Is In Another Castle!', "It's-a me, Mario!", "It's Dangerous To Go Alone! Take This."
+  puts $all_phrases_inna_nutshell
+end
   
 
